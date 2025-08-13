@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=harshitha05&color=blue)
 ## 🚀 About Me  
 🌱 Learning *Python* from PW Skills and *Web Development* from Udemy  
 💼 Internship in *Web Development* at Talentize  
